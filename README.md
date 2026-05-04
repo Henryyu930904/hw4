@@ -55,7 +55,7 @@ runApp("110753xxx")
 
 5. **Publish**:
    - On the preview screen, locate the `Publish` button in the upper right corner. Click it to deploy your application to ShinyApps.io.
-   - Ensure your application's title on ShinyApps.io follows this format: `NCCU_DS2024_hw4_studentID`.
+   - Ensure your application's title on ShinyApps.io follows this format: `NCCU_DS2026_hw4_studentID`.
 
 <p align="center">
  <img src="/images/shinyapp_on_rstudio_2.png" width="60%" height="60%" >
@@ -88,7 +88,7 @@ runApp("110753xxx")
 #### Submission Requirements
 - **-2 points** Missing ShinyApp Link and Student ID: Ensure your ShinyApp link and student ID are prominently displayed at the top of your `Readme.md`. A deduction of 2 points will apply if this information is missing.
 - **-2 points** Inaccessible ShinyApp Link: Your project must be published on [shinyapps.io](https://www.shinyapps.io/) with an accessible public link. If the link is not accessible, 2 points will be deducted.
-- **-2 points** Non-Compliant Title Format: The title of your ShinyApp must adhere to the format `NCCU_DS2024_hw4_studentID`. Failure to follow this format will result in a 2-point deduction.
+- **-2 points** Non-Compliant Title Format: The title of your ShinyApp must adhere to the format `NCCU_DS2026_hw4_studentID`. Failure to follow this format will result in a 2-point deduction.
 
 Please make sure all required elements are correctly implemented to avoid these penalties.
 
