@@ -1,6 +1,6 @@
 # hw4. Interactive web service for PCA and CA analysis
-#### Name: your name
-#### ID: Student ID
+#### Name: 俞廷翰
+#### ID: 112304043
 #### ShinyApps link: your link
 
 ## Objective
