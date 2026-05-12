@@ -1,7 +1,7 @@
 # hw4. Interactive web service for PCA and CA analysis
 #### Name: your name
 #### ID: Student ID
-#### ShinyApps link: your link
+#### ShinyApps link: https://ting-han-yu.shinyapps.io/NCCU_DS2026_hw4_112304043/
 
 ## Objective
 - Create an interactive web service using ShinyApp to perform Principal Component Analysis (PCA) and Correspondence Analysis (CA).
